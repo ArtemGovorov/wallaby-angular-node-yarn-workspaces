@@ -1,0 +1,5 @@
+{
+  "name": "wallaby-angular-node-yarn-workspaces",
+  "private": true,
+  "workspaces": ["api", "angular-app"]
+}
