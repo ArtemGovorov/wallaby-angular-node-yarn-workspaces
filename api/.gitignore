@@ -1,0 +1,9 @@
+# Apple file system
+.DS_Store
+
+# compiled output
+/dist
+/build
+
+# dependencies
+/node_modules

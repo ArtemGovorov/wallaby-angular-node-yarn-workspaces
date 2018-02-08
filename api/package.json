@@ -1,0 +1,21 @@
+{
+  "name": "api",
+  "version": "0.1.0",
+  "scripts": {
+    "test": "ts-node node_modules/.bin/jasmine JASMINE_CONFIG_PATH=jasmine.json"
+  },
+  "devDependencies": {
+    "@types/jasmine": "^2.8.6",
+    "@types/micro": "^7.3.1",
+    "@types/node": "^9.4.2",
+    "@types/request-promise-native": "^1.0.13",
+    "jasmine": "^2.9.0",
+    "request": "^2.83.0",
+    "request-promise-native": "^1.0.5",
+    "ts-node": "^4.1.0",
+    "typescript": "^2.6.2"
+  },
+  "dependencies": {
+    "micro": "^9.1.0"
+  }
+}
